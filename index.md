@@ -21,7 +21,12 @@ One challenge in modeling structures with large interfaces is in the development
 
 ## Applications
 
-To submit an application for participating in the TRC, please email Malte Krack (krack@ila.uni-stuttgart.de) a copy of your CV, a letter of recommendation by your advisor including a statement that your home institution covers your travel expenses, and a cover letter detailing your research interests and project preference. Applications are due by March 16, 2020. For more information, please contact a steering committee member.
+To submit an application for participating in the TRC, please email **Malte Krack (krack@ila.uni-stuttgart.de)** the following:
+  + Copy of your CV
+  + Letter of recommendation by your advisor including a statement that your home institution covers your travel expenses
+  + Cover letter detailing your research interests and project preference.
+
+Applications are due by March 16, 2020. For more information, please contact a steering committee member.
 
 <!-- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). -->
 
